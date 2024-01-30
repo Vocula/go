@@ -14,6 +14,8 @@ BSD-style license found in the LICENSE file.
 
 ### Download and Install
 
+...
+
 #### Binary Distributions
 
 Official binary distributions are available at https://go.dev/dl/.
